@@ -1,0 +1,42 @@
+.container {
+  text-align: left;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+.border {
+  border: 1px solid grey;
+  box-shadow: 2px 5px rgb(230,230,230);
+}
+
+div {
+  padding: 1%;
+}
+
+ul {
+  	padding: 0;
+}
+
+li {
+  list-style: none;
+  margin: 0;
+  padding-right: 0;
+}
+
+h3 {
+  font-size: 25pt;
+  margin: 2%;
+}
+
+span {
+  font-weight: bold;
+}
+
+img{
+	height:100%;
+	width:100%;
+}
+
+.title1 {
+  font-style: italic;
+}
